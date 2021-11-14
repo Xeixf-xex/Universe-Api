@@ -1,0 +1,494 @@
+  {
+  "Items":[
+        {
+  "type": "Emotes",
+  "swapsFrom": "Boogie Down",
+  "swapsTo": "Floss",
+  "fromImage": "https://fortnite-api.com/images/cosmetics/br/EID_BoogieDown/smallicon.png",
+    "FromImageName": "EID_BoogieDown",
+  "toImage": "https://fortnite-api.com/images/cosmetics/br/EID_Floss/smallicon.png",
+  "ToImageName": "EID_Floss",
+  "note": null,
+  "showMain": false,
+  "Swap":[
+    {
+    "Uasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_BoogieDown.uasset",
+    "XUcas": "pakchunk10_s4-WindowsClient.ucas",
+      "search":["/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMM.Emote_Boogie_Down_CMM", "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMF.Emote_Boogie_Down_CMF","Boogie Down", "Boogie Down with Populotus.", "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-BoogieDown-L.T-Icon-Emotes-E-BoogieDown-L", "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-BoogieDown.T-Icon-Emotes-E-BoogieDown"],
+      "replace":["/Game/Animation/Game/MainPlayer/Emotes/Emote_FlossDance_M.Emote_FlossDance_M","/Game/Animation/Game/MainPlayer/Emotes/Emote_FlossDance_M.Emote_FlossDance_M", "Floss", "Night Swapper.", "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-Floss-L.T-Icon-Emotes-E-Floss-L", "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-Floss.T-Icon-Emotes-E-Floss"]
+    }
+    ]
+  },
+{
+  "type": "Backblings",
+  "swapsFrom": "Uplink",
+  "swapsTo": "Insignia",
+  "fromImage": "https://fortnite-api.com/images/cosmetics/br/BID_075_TacticalBadass/smallicon.png",
+    "FromImageName": "BID_075_TacticalBadass",
+  "toImage": "https://fortnite-api.com/images/cosmetics/br/BID_077_WeGame/smallicon.png",
+  "ToImageName": "BID_077_WeGame",
+  "note": null,
+  "showMain": false,
+  "Swap":[
+    {
+    "Uasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_TacticalBadass.uasset",
+    "XUcas": "pakchunk10_s4-WindowsClient.ucas",
+      "search":["M_MED_TacticalBadass_Backpack/Meshes/M_MED_Tactical_Badass.M_MED_Tactical_Badass"],
+      "replace":["M_MED_Wegame_Backpack/Meshes/SK_Backpack_Wegame.SK_Backpack_Wegame"]
+    }
+    ]
+  },
+
+{
+  "type": "Backblings",
+  "swapsFrom": "Offworld Rig",
+  "swapsTo": "Hazel",
+  "fromImage": "https://fortnite-api.com/images/cosmetics/br/BID_057_Visitor/smallicon.png",
+    "FromImageName": "BID_057_Visitor",
+  "toImage": "https://fortnite-api.com/images/cosmetics/br/BID_857_BigBucksCat_XTZ62/smallicon.png",
+  "ToImageName": "BID_857_BigBucksCat_XTZ62",
+  "note": null,
+  "showMain": false,
+  "Swap":[
+    {
+    "Uasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_Visitor.uasset",
+    "XUcas": "pakchunk10_s4-WindowsClient.ucas",
+      "search":["/Game/Accessories/FORT_Backpacks/M_MED_MeteorMan_Backpack/Meshes/SK_M_MED_Meteorman_Backpack_Skeleton_AnimBlueprint.SK_M_MED_Meteorman_Backpack_Skeleton_AnimBlueprint_C", "/Game/Accessories/FORT_Backpacks/M_MED_MeteorMan_Backpack/Meshes/SK_M_MED_Meteorman_Backpack.SK_M_MED_Meteorman_Backpack"],
+      "replace":["/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Big_Bucks_Cat/Meshes/F_MED_Big_Bucks_Cat_Pack_AnimBP.F_MED_Big_Bucks_Cat_Pack_AnimBP_C",     "/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Big_Bucks_Cat/Meshes/F_MED_Big_Bucks_Cat_Pack.F_MED_Big_Bucks_Cat_Pack"]
+    }
+    ]
+  },
+   {
+  "type": "Emotes",
+  "swapsFrom": "Hot Marat",
+  "swapsTo": "Dab",
+  "fromImage": "https://fortnite-api.com/images/cosmetics/br/EID_WIR/smallicon.png",
+    "FromImageName": "EID_WIR",
+  "toImage": "https://fortnite-api.com/images/cosmetics/br/EID_Dab/smallicon.png",
+  "ToImageName": "EID_Dab",
+  "note": null,
+  "showMain": false,
+  "Swap":[
+    {
+    "Uasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_WIR.uasset",
+    "XUcas": "pakchunk10_s4-WindowsClient.ucas",
+      "search":["/Game/Animation/Game/MainPlayer/Emotes/Marat/Emote_Marat_CMM_M.Emote_Marat_CMM_M", "/Game/Animation/Game/MainPlayer/Emotes/Marat/Emote_Marat_CMF_M.Emote_Marat_CMF_M","Hot Marat", "Wreck the dance floor.", "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-WIR-L.T-Icon-Emotes-E-WIR-L", "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-WIR.T-Icon-Emotes-E-WIR"],
+      "replace":["/Game/Animation/Game/MainPlayer/Emotes/Emote_Dab_M.Emote_Dab_M","/Game/Animation/Game/MainPlayer/Emotes/Emote_Dab_M.Emote_Dab_M", "Dab", "Night Swapper.", "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-Dab-L.T-Icon-Emotes-E-Dab-L", "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-Dab.T-Icon-Emotes-E-Dab"]
+    }
+    ]
+  },
+{
+  "type": "Emotes",
+  "swapsFrom": "Nana Nana",
+  "swapsTo": "Scenario",
+  "fromImage": "https://fortnite-api.com/images/cosmetics/br/EID_Banana/smallicon.png",
+    "FromImageName": "EID_Banana",
+  "toImage": "https://fortnite-api.com/images/cosmetics/br/EID_KPopDance03/smallicon.png",
+  "ToImageName": "EID_KPopDance03",
+  "note": null,
+  "showMain": false,
+  "Swap":[
+    {
+    "Uasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Banana.uasset",
+    "XUcas": "pakchunk10_s4-WindowsClient.ucas",
+      "search":["/Game/Animation/Game/MainPlayer/Emotes/Banana/Emote_Banana_CMM_M.Emote_Banana_CMM_M", "/Game/Animation/Game/MainPlayer/Emotes/Banana/Emote_Banana_CMF_M.Emote_Banana_CMF_M","Nana Nana", "Have a bunch of fun!", "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-Banana-L.T-Icon-Emotes-E-Banana-L", "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-Banana.T-Icon-Emotes-E-Banana"],
+      "replace":["/Game/Animation/Game/MainPlayer/Emotes/KPop_Dance03/Emote_KPOP_Dance03_M.Emote_KPOP_Dance03_M","/Game/Animation/Game/MainPlayer/Emotes/KPop_Dance03/Emote_KPOP_Dance03_Female_M.Emote_KPOP_Dance03_Female_M", "Scenario", "Night Swapper.", "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-KPopDance03-L.T-Icon-Emotes-E-KPopDance03-L", "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-KPopDance03.T-Icon-Emotes-E-KPopDance03"]
+    }
+    ]
+  },
+
+  {
+  "type": "Emotes",
+  "swapsFrom": "Blowing Bubbles",
+  "swapsTo": "Primo Moves",
+  "ToImage": "https://fortnite-api.com/images/cosmetics/br/EID_BreakfastCoffeeDance/smallicon.png",
+    "ToImageName": "EID_BreakfastCoffeeDance",
+  "fromImage": "https://fortnite-api.com/images/cosmetics/br/EID_BlowingBubbles/smallicon.png",
+  "fromImageName": "EID_BlowingBubbles",
+  "note": null,
+  "showMain": false,
+  "Swap":[
+    {
+    "Uasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_BlowingBubbles.uasset",
+    "XUcas": "pakchunk10_s4-WindowsClient.ucas",
+      "search":["/Game/Animation/Game/MainPlayer/Emotes/BlowingBubble/Emote_BlowingBubble_CMM_M.Emote_BlowingBubble_CMM_M", "/Game/Animation/Game/MainPlayer/Emotes/BlowingBubble/Emote_BlowingBubble_CMF_M.Emote_BlowingBubble_CMF_M","Blowing Bubbles", "Get poppin.", "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-BlowingBubbles-L.T-Icon-Emotes-E-BlowingBubbles-L", "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-BlowingBubbles.T-Icon-Emotes-E-BlowingBubbles"],
+      "replace":["/Game/Animation/Game/MainPlayer/Emotes/BreakfastCoffeeDance/Emote_BreakfastCoffeeDance_CMM_M.Emote_BreakfastCoffeeDance_CMM_M","/Game/Animation/Game/MainPlayer/Emotes/BreakfastCoffeeDance/Emote_BreakfastCoffeeDance_CMF_M.Emote_BreakfastCoffeeDance_CMF_M", "Primo Moves", "Night Swapper.", "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-BreakfastCoffeeDance-L.T-Icon-Emotes-E-BreakfastCoffeeDance-L", "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-BreakfastCoffeeDance.T-Icon-Emotes-E-BreakfastCoffeeDance"]
+    }
+    ]
+  },
+
+  {
+  "type": "Emotes",
+  "swapsFrom": "Shaolin Sip",
+  "swapsTo": "Scenario",
+  "fromImage": "https://fortnite-api.com/images/cosmetics/br/EID_ShaolinSipUp/smallicon.png",
+    "FromImageName": "EID_ShaolinSipUp",
+  "toImage": "https://fortnite-api.com/images/cosmetics/br/EID_KPopDance03/smallicon.png",
+  "ToImageName": "EID_KPopDance03",
+  "note": null,
+  "showMain": false,
+  "Swap":[
+    {
+    "Uasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_ShaolinSipUp.uasset",
+    "XUcas": "pakchunk10_s4-WindowsClient.ucas",
+      "search":["/Game/Animation/Game/MainPlayer/Emotes/ShaolinSipUp/Emote_ShaolinSipUp_CMM_M.Emote_ShaolinSipUp_CMM_M", "/Game/Animation/Game/MainPlayer/Emotes/ShaolinSipUp/Emote_ShaolinSipUp_CMF_M.Emote_ShaolinSipUp_CMF_M","Shaolin Sip", "Mind over body, but first- tea.", "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-ShaolinSipUp-L.T-Icon-Emotes-E-ShaolinSipUp-L", "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-ShaolinSipUp.T-Icon-Emotes-E-ShaolinSipUp"],
+      "replace":["/Game/Animation/Game/MainPlayer/Emotes/KPop_Dance03/Emote_KPOP_Dance03_M.Emote_KPOP_Dance03_M", "/Game/Animation/Game/MainPlayer/Emotes/KPop_Dance03/Emote_KPOP_Dance03_Female_M.Emote_KPOP_Dance03_Female_M","Scenario", "Night Swapper.", "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-KPopDance03-L.T-Icon-Emotes-E-KPopDance03-L", "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-KPopDance03.T-Icon-Emotes-E-KPopDance03"]
+    }
+    ]
+  },
+  {
+  "type": "Emotes",
+  "swapsFrom": "Boogie Down",
+  "swapsTo": "Build Up",
+  "fromImage": "https://fortnite-api.com/images/cosmetics/br/EID_BoogieDown/smallicon.png",
+    "FromImageName": "EID_BoogieDown",
+  "toImage": "https://fortnite-api.com/images/cosmetics/br/EID_BluePhoto_JSG4D/smallicon.png",
+  "ToImageName": "EID_BluePhoto_JSG4D",
+  "note": null,
+  "showMain": false,
+  "Swap":[
+    {
+    "Uasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_BoogieDown.uasset",
+    "XUcas": "pakchunk10_s4-WindowsClient.ucas",
+      "search":["/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMM.Emote_Boogie_Down_CMM", "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMF.Emote_Boogie_Down_CMF","Boogie Down", "Boogie Down with Populotus.", "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-BoogieDown-L.T-Icon-Emotes-E-BoogieDown-L", "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-BoogieDown.T-Icon-Emotes-E-BoogieDown"],
+      "replace":["/Game/Animation/Game/MainPlayer/Emotes/BluePhoto/Emote_BluePhoto_CMM_M.Emote_BluePhoto_CMM_M","/Game/Animation/Game/MainPlayer/Emotes/BluePhoto/Emote_BluePhoto_CMF_M.Emote_BluePhoto_CMF_M", "Build Up", "Night Swapper.", "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-BluePhoto-L.T-Icon-Emotes-E-BluePhoto-L", "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-BluePhoto.T-Icon-Emotes-E-BluePhoto"]
+    }
+    ]
+  },
+   {
+  "type": "Emotes",
+  "swapsFrom": "Shaolin Sip",
+  "swapsTo": "Snare Solo",
+  "fromImage": "https://fortnite-api.com/images/cosmetics/br/EID_ShaolinSipUp/smallicon.png",
+    "FromImageName": "EID_ShaolinSipUp",
+  "toImage": "https://fortnite-api.com/images/cosmetics/br/EID_ChickenLeg_TDJ0O/smallicon.png",
+  "ToImageName": "EID_ChickenLeg_TDJ0O",
+  "note": null,
+  "showMain": false,
+  "Swap":[
+    {
+    "Uasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_ShaolinSipUp.uasset",
+    "XUcas": "pakchunk10_s4-WindowsClient.ucas",
+      "search":["/Game/Animation/Game/MainPlayer/Emotes/ShaolinSipUp/Emote_ShaolinSipUp_CMM_M.Emote_ShaolinSipUp_CMM_M", "/Game/Animation/Game/MainPlayer/Emotes/ShaolinSipUp/Emote_ShaolinSipUp_CMF_M.Emote_ShaolinSipUp_CMF_M","Shaolin Sip", "Mind over body, but first- tea.", "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-ShaolinSipUp-L.T-Icon-Emotes-E-ShaolinSipUp-L", "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-ShaolinSipUp.T-Icon-Emotes-E-ShaolinSipUp"],
+      "replace":["/Game/Animation/Game/MainPlayer/Emotes/ChickenLeg/Emote_ChickenLeg_CMM_M.Emote_ChickenLeg_CMM_M","/Game/Animation/Game/MainPlayer/Emotes/ChickenLeg/Emote_ChickenLeg_CMF_M.Emote_ChickenLeg_CMF_M", "Snare Solo", "Night Swapper.", "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-ChickenLeg-L.T-Icon-Emotes-E-ChickenLeg-L", "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-ChickenLeg.T-Icon-Emotes-E-ChickenLeg"]
+    }
+    ]
+  },
+  {
+  "type": "Pickaxes",
+  "swapsFrom": "Default Pickaxe",
+  "swapsTo": "FNCS Pickaxe",
+  "fromImage": "https://fortnite-api.com/images/cosmetics/br/DefaultPickaxe/smallicon.png",
+    "FromImageName": "DefaultPickaxe",
+  "toImage": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_376_FNCS/smallicon.png",
+  "ToImageName": "Pickaxe_ID_376_FNCS",
+  "note": null,
+  "showMain": false,
+  "Swap":[
+    {
+    "Uasset": "FortniteGame/Content/Athena/Items/Weapons/WID_Harvest_Pickaxe_Athena_C_T01.uasset",
+    "XUcas": "pakchunk10_s3-WindowsClient.ucas",
+      "search":["/Game/Weapons/FORT_Melee/Pickaxe_Default_MarkII/Meshes/SK_Pickaxe_Default_Mark_II.SK_Pickaxe_Default_Mark_II", "EFortRarity::Common","/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Pickaxes-PickaxeMarkII-L.T-Icon-Pickaxes-PickaxeMarkII-L", "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Pickaxes-PickaxeMarkII.T-Icon-Pickaxes-PickaxeMarkII"],
+      "replace":["/Game/Weapons/FORT_Melee/Pickaxe_FNCS/Meshes/SK_Pickaxe_FNCS.SK_Pickaxe_FNCS", "EFortRarity::Epic","/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Pickaxes-FNCSPickaxe-L.T-Icon-Pickaxes-FNCSPickaxe-L", "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Pickaxes-FNCSPickaxe.T-Icon-Pickaxes-FNCSPickaxe"]
+    }
+    ]
+  },
+    {
+  "type": "Backblings",
+  "swapsFrom": "Frozen Red Shield",
+  "swapsTo": "Black Shield",
+  "fromImage": "https://fortnite-api.com/images/cosmetics/br/BID_167_RedKnightWinterFemale/smallicon.png",
+    "FromImageName": "BID_167_RedKnightWinterFemale",
+  "toImage": "https://fortnite-api.com/images/cosmetics/br/BID_004_BlackKnight/smallicon.png",
+  "ToImageName": "BID_004_BlackKnight",
+  "note": null,
+  "showMain": false,
+  "Swap":[
+    {
+    "Uasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_RedKnightWinterFemale.uasset",
+    "XUcas": "pakchunk10_s4-WindowsClient.ucas",
+      "search":["/Game/Accessories/FORT_Backpacks/Materials/Female_Commando_RedKnight_Winter.Female_Commando_RedKnight_Winter"],
+      "replace":["/Game/Weapons/FORT_Melee/Materials/MI_FORT_Melee_Pick_Celestial"]
+    }
+    ]
+  },
+  {
+  "type": "Backblings",
+  "swapsFrom": "Frozen Red Shield",
+  "swapsTo": "Squire Shield",
+  "fromImage": "https://fortnite-api.com/images/cosmetics/br/BID_167_RedKnightWinterFemale/smallicon.png",
+    "FromImageName": "BID_167_RedKnightWinterFemale",
+  "toImage": "https://fortnite-api.com/images/cosmetics/br/BID_001_BlueSquire/smallicon.png",
+  "ToImageName": "BID_001_BlueSquire",
+  "note": null,
+  "showMain": false,
+  "Swap":[
+    {
+    "Uasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_RedKnightWinterFemale.uasset",
+    "XUcas": "pakchunk10_s4-WindowsClient.ucas",
+      "search":["/Game/Accessories/FORT_Backpacks/Materials/Female_Commando_RedKnight_Winter.Female_Commando_RedKnight_Winter", "/Game/Accessories/FORT_Backpacks/Mesh/SK_Shield_Blackknight.SK_Shield_Blackknight"],
+      "replace":["/Game/Accessories/FORT_Backpacks/Materials/Male_Commando_10_V02.Male_Commando_10_V02", "/Game/Accessories/FORT_Backpacks/Mesh/Male_Commando_10.Male_Commando_10"]
+    }
+    ]
+  },
+  {
+  "type": "Backblings",
+  "swapsFrom": "Frozen Red Shield",
+  "swapsTo": "Galaxy Red Shield",
+  "fromImage": "https://fortnite-api.com/images/cosmetics/br/BID_167_RedKnightWinterFemale/smallicon.png",
+    "FromImageName": "BID_167_RedKnightWinterFemale",
+  "toImage": "https://XPAPI.hubertwitkow.repl.co/glxyshield.png",
+  "ToImageName": "glxyshield",
+  "note": null,
+  "showMain": false,
+  "Swap":[
+    {
+    "Uasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_RedKnightWinterFemale.uasset",
+    "XUcas": "pakchunk10_s4-WindowsClient.ucas",
+      "search":["/Game/Accessories/FORT_Backpacks/Materials/Female_Commando_RedKnight_Winter.Female_Commando_RedKnight_Winter"],
+      "replace":["/Game/Weapons/FORT_Melee/Materials/MI_FORT_Melee_Pick_Celestial.MI_FORT_Melee_Pick_Celestial"]
+    }
+    ]
+  },
+      {
+  "type": "Backblings",
+  "swapsFrom": "The Sith",
+  "swapsTo": "Galactic Disc",
+  "fromImage": "https://fortnite-api.com/images/cosmetics/br/BID_430_GalileoSpeedBoat_9RXE3/smallicon.png",
+    "FromImageName": "BID_430_GalileoSpeedBoat_9RXE3",
+  "toImage": "https://fortnite-api.com/images/cosmetics/br/BID_138_Celestial/smallicon.png",
+  "ToImageName": "BID_138_Celestial",
+  "note": null,
+  "showMain": false,
+  "Swap":[
+    {
+    "Uasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_GalileoSpeedBoat.uasset",
+    "XUcas": "pakchunk10_s4-WindowsClient.ucas",
+      "search":["/Game/Accessories/FORT_Backpacks/Backpack_Galileo_Holos/FX/P_Backpack_GalileoSpeedboat_Holo.P_Backpack_GalileoSpeedboat_Holo"],
+      "replace":["/Game/Accessories/FORT_Backpacks/M_MED_Celestial_Backpack/P_Celestial_MilkyWay.P_Celestial_MilkyWay"]
+    }
+    ]
+  },
+  {
+  "type": "Backblings",
+  "swapsFrom": "The Sith",
+  "swapsTo": "FNCS Holoflair",
+  "fromImage": "https://fortnite-api.com/images/cosmetics/br/BID_430_GalileoSpeedBoat_9RXE3/smallicon.png",
+    "FromImageName": "BID_430_GalileoSpeedBoat_9RXE3",
+  "toImage": "https://fortnite-api.com/images/cosmetics/br/BID_840_FNCSGreen/smallicon.png",
+  "ToImageName": "BID_840_FNCSGreen",
+  "note": null,
+  "showMain": false,
+  "Swap":[
+    {
+    "Uasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_GalileoSpeedBoat.uasset",
+    "XUcas": "pakchunk10_s4-WindowsClient.ucas",
+      "search":["/Game/Accessories/FORT_Backpacks/Backpack_Galileo_Holos/FX/P_Backpack_GalileoSpeedboat_Holo.P_Backpack_GalileoSpeedboat_Holo"],
+      "replace":["/Game/Accessories/FORT_Backpacks/Backpack_M_MED_FNCSGreen/VFX/NS_FNCSGreen_Backpack.NS_FNCSGreen_Backpack"]
+    }
+    ]
+  },
+  {
+  "type": "Weapons",
+  "swapsFrom": "Pump",
+  "swapsTo": "OG Pump",
+  "fromImage": "https://XPAPI.hubertwitkow.repl.co/Pump.png",
+    "FromImageName": "Pump",
+  "toImage": "https://XPAPI.hubertwitkow.repl.co/OGPump.png",
+  "ToImageName": "OGPump",
+  "note": null,
+  "showMain": false,
+  "Swap":[
+    {
+    "Uasset": "FortniteGame/Content/Athena/Items/Weapons/WID_Shotgun_Standard_Athena_Common.uasset",
+    "XUcas": "pakchunk10_s4-WindowsClient.ucas",
+      "search":["/Game/Weapons/FORT_Shotguns/Mesh/SK_Pump_Shotgun_Mark_II_Base.SK_Pump_Shotgun_Mark_II_Base", "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-PumpShotgunMark2Base-L.T-Icon-Weapons-PumpShotgunMark2Base-L", "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-PumpShotgunMark2Base.T-Icon-Weapons-PumpShotgunMark2Base"],
+      "replace":["/Game/Weapons/FORT_Shotguns/Mesh/SK_Crusader.SK_Crusader", "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Crusader-L.T-Icon-Weapons-SK-Crusader-L", "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Crusader.T-Icon-Weapons-SK-Crusader"]
+    },
+    {
+    "Uasset": "FortniteGame/Content/Athena/Items/Weapons/WID_Shotgun_Standard_Athena_UC_Ore_T03.uasset",
+    "XUcas": "pakchunk10_s4-WindowsClient.ucas",
+      "search":["/Game/Weapons/FORT_Shotguns/Mesh/SK_Pump_Shotgun_Mark_II_Base.SK_Pump_Shotgun_Mark_II_Base", "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-PumpShotgunMark2Base-L.T-Icon-Weapons-PumpShotgunMark2Base-L", "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-PumpShotgunMark2Base.T-Icon-Weapons-PumpShotgunMark2Base"],
+      "replace":["/Game/Weapons/FORT_Shotguns/Mesh/SK_Crusader.SK_Crusader", "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Crusader-L.T-Icon-Weapons-SK-Crusader-L", "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Crusader.T-Icon-Weapons-SK-Crusader"]
+    },
+    {
+    "Uasset": "FortniteGame/Content/Athena/Items/Weapons/WID_Shotgun_Standard_Athena_C_Ore_T03.uasset",
+    "XUcas": "pakchunk10_s3-WindowsClient.ucas",
+      "search":["/Game/Weapons/FORT_Shotguns/Mesh/SK_Pump_Shotgun_Mark_II_Base.SK_Pump_Shotgun_Mark_II_Base", "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-PumpShotgunMark2Base-L.T-Icon-Weapons-PumpShotgunMark2Base-L", "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-PumpShotgunMark2Base.T-Icon-Weapons-PumpShotgunMark2Base"],
+      "replace":["/Game/Weapons/FORT_Shotguns/Mesh/SK_Crusader.SK_Crusader", "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Crusader-L.T-Icon-Weapons-SK-Crusader-L", "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Crusader.T-Icon-Weapons-SK-Crusader"]
+    }
+    ]
+  },
+        {
+  "type": "Pickaxes",
+  "swapsFrom": "Default Pickaxe",
+  "swapsTo": "Raider's Revenge",
+  "fromImage": "https://fortnite-api.com/images/cosmetics/br/DefaultPickaxe/smallicon.png",
+    "FromImageName": "DefaultPickaxe",
+  "toImage": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_Lockjaw/smallicon.png",
+  "ToImageName": "Pickaxe_Lockjaw",
+  "note": null,
+  "showMain": false,
+  "Swap":[
+    {
+    "Uasset": "FortniteGame/Content/Athena/Items/Weapons/WID_Harvest_Pickaxe_Athena_C_T01.uasset",
+    "XUcas": "pakchunk10_s3-WindowsClient.ucas",
+      "search":["/Game/Weapons/FORT_Melee/Pickaxe_Default_MarkII/Meshes/SK_Pickaxe_Default_Mark_II.SK_Pickaxe_Default_Mark_II", "/Game/Athena/Sounds/Weapons/PickAxes/DefaultV2/Pickaxe_DefaultV2_Equip_Cue.Pickaxe_DefaultV2_Equip_Cue", "/Game/Athena/Sounds/Weapons/PickAxes/DefaultV2/Pickaxe_DefaultV2_Swing_Cue.Pickaxe_DefaultV2_Swing_Cue"],
+      "replace":["/Game/Weapons/FORT_Melee/Meshes/SK_Pickaxe_PostApocalyptic.SK_Pickaxe_PostApocalyptic", "/Game/Sounds/Fort_Impact_Sounds/Flesh/Player_Impact_PA_LockJaw_Cue.Player_Impact_PA_LockJaw_Cue", "/Game/Athena/Sounds/Weapons/PickAxes/PickAxe_Lockjaw_Swing_Athena_Cue.PickAxe_LockJaw_Swing_Athena_Cue"]
+    }
+    ]
+  },
+  {
+  "type": "Pickaxes",
+  "swapsFrom": "Default Pickaxe",
+  "swapsTo": "Spiky",
+  "fromImage": "https://fortnite-api.com/images/cosmetics/br/DefaultPickaxe/smallicon.png",
+    "FromImageName": "DefaultPickaxe",
+  "toImage": "https://fortnite-api.com/images/cosmetics/br/SpikyPickaxe/smallicon.png",
+  "ToImageName": "Spiky",
+  "note": null,
+  "showMain": false,
+  "Swap":[
+    {
+    "Uasset": "FortniteGame/Content/Athena/Items/Weapons/WID_Harvest_Pickaxe_Athena_C_T01.uasset",
+    "XUcas": "pakchunk10_s3-WindowsClient.ucas",
+      "search":["/Game/Weapons/FORT_Melee/Pickaxe_Default_MarkII/Meshes/SK_Pickaxe_Default_Mark_II.SK_Pickaxe_Default_Mark_II", "/Game/Athena/Sounds/Weapons/PickAxes/DefaultV2/Pickaxe_DefaultV2_Equip_Cue.Pickaxe_DefaultV2_Equip_Cue", "/Game/Athena/Sounds/Weapons/PickAxes/DefaultV2/Pickaxe_DefaultV2_Swing_Cue.Pickaxe_DefaultV2_Swing_Cue",
+],
+      "replace":["/Game/Weapons/FORT_Melee/Meshes/SK_Pickaxe_Spikes.SK_Pickaxe_Spikes",
+      "/Game/Sounds/Fort_Impact_Sounds/Flesh/Player_Impact_PA_Spikey_Cue.Player_Impact_PA_Spikey_Cue",
+      "/Game/Athena/Sounds/Weapons/PickAxes/PickAxe_Spikey_Swing_Athena_Cue.PickAxe_Spikey_Swing_Athena_Cue"]
+    }
+    ]
+  },
+  {
+  "type": "Pickaxes",
+  "swapsFrom": "Peely Pick",
+  "swapsTo": "Reaper",
+  "fromImage": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_191_Banana/smallicon.png",
+    "FromImageName": "Pickaxe_ID_191_Banana",
+  "toImage": "https://fortnite-api.com/images/cosmetics/br/HalloweenScythe/smallicon.png",
+  "ToImageName": "HalloweenScythe",
+  "note": null,
+  "showMain": false,
+  "Swap":[
+    {
+    "Uasset": "FortniteGame/Content/Athena/Items/Weapons/WID_Harvest_Pickaxe_Banana.uasset",
+    "XUcas": "pakchunk10_s4-WindowsClient.ucas",
+      "search":["/Game/Athena/Sounds/Weapons/PickAxes/Banana/PA_Banana_Impact_Cue.PA_Banana_Impact_Cue", "/Game/Athena/Sounds/Weapons/PickAxes/Banana/PA_Banana_Ready_Cue.PA_Banana_Ready_Cue",
+      "/Game/Athena/Sounds/Weapons/PickAxes/Banana/PA_Banana_Swing_Cue.PA_Banana_Swing_Cue",
+      "/Game/Weapons/FORT_Melee/Pickaxe_Banana/Meshes/Pickaxe_Banana.Pickaxe_Banana",
+      "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Pickaxes-Banana-Pickaxe-L.T-Icon-Pickaxes-Banana-Pickaxe-L",
+      "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Pickaxes-Banana-Pickaxe.T-Icon-Pickaxes-Banana-Pickaxe"  
+],
+      "replace":["/Game/Athena/Sounds/Weapons/PickAxes/Banana/PA_Banana_Impact_Cue.PA_Banana_Impact_Cee",
+      "/Game/Sounds/Fort_Weapons/Scythe/Scythe_Ready_Cue.Scythe_Ready_Cue",
+      "/Game/Sounds/Fort_Weapons/Scythe/Scythe_Swing_Cue.Scythe_Swing_Cue",
+      "/Game/Weapons/FORT_Melee/Meshes/SK_Scythe.SK_Scythe",
+      "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Scythe-L.T-Icon-Weapons-SK-Scythe-L",
+      "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Scythe.T-Icon-Weapons-SK-Scythe"      
+      ]
+    }
+    ]
+  },
+  {
+  "type": "Skins",
+  "swapsFrom": "Ruby Shadows",
+  "swapsTo": "Doombot Agent",
+  "fromImage": "https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/smallicon.png",
+    "FromImageName": "/Game/Characters/CharacterParts/Hats/Hat_F_Commando_08_V01.Hat_F_Commando_08_V01",
+  "toImage": "https://fortnite-api.com/images/cosmetics/br/CID_NPC_Athena_Commando_M_Apparition_Grunt/smallicon.png",
+  "ToImageName": "CID_NPC_Athena_Commando_M_Apparition_Grunt",
+  "note": null,
+  "showMain": false,
+  "Swap":[
+    {
+    "Uasset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_StreetFashionEclipse.uasset",
+    "XUcas": "pakchunk10_s22-WindowsClient.ucas",
+      "search":["/Game/Characters/Player/Female/Medium/Heads/F_MED_Angel_Head_01/Meshes/F_MED_Angel_Head_01.F_MED_Angel_Head_01",
+      "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Head.F_MED_StreetFashionEclipse_Head"
+],
+      "replace":["/Game/Characters/Player/Male/Medium/Heads/M_MED_Empty_Head_01/Meshes/M_MED_Empty_Head_01.M_MED_Empty_Head_01",
+      "/Game/Characters/Player/Male/Male_Avg_Base/Fortnite_M_Avg_Player.Fortnite_M_Avg_Player"   
+      ]
+    },
+    {
+      "Uasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StreetFashionEclipse.uasset",
+          "XUcas": "pakchunk10_s22-WindowsClient.ucas",
+                "search":[
+      "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_AnimBP.F_MED_Street_Fashion_Red_AnimBP_C",
+      "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red.F_MED_Street_Fashion_Red",
+      "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Body.F_MED_StreetFashionEclipse_Body"
+],
+      "replace":[
+      "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Apparition_Grunt/Meshes/M_MED_Apparition_Grunt_NPC_AnimBP.M_MED_Apparition_Grunt_NPC_AnimBP_C",
+      "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Apparition_Grunt/Meshes/M_MED_Apparition_Grunt_NPC.M_MED_Apparition_Grunt_NPC" ,
+            "/Game/Characters/Player/Fem2le/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Body.F_MED_StreetFashionEclipse_Body"  
+      ]
+    },
+        {
+      "Uasset": "FortniteGame/Content/Characters/CharacterParts/FaceAccessories/CP_F_MED_FaceAcc_StreetFashionEclipse.uasset",
+          "XUcas": "pakchunk10_s22-WindowsClient.ucas",
+                "search":[
+      "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/Parts/F_MED_Street_Fashion_Red_FaceAcc.F_MED_Street_Fashion_Red_FaceAcc"
+],
+      "replace":[
+      "/Game/Accessories/Hats/Mesh/Hat_Empty.Hat_Empty"   
+      ]
+    }
+    ]
+  },
+  {
+  "type": "Skins",
+  "swapsFrom": "Ruby Shadows",
+  "swapsTo": "Thanos",
+  "fromImage": "https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/smallicon.png",
+    "FromImageName": "/Game/Characters/CharacterParts/Hats/Hat_F_Commando_08_V01.Hat_F_Commando_08_V01",
+  "toImage": "https://fortnite-api.com/images/cosmetics/br/CID_A_128_Athena_Commando_M_Menace/smallicon.png",
+  "ToImageName": "CID_A_128_Athena_Commando_M_Menace",
+  "note": "not working",
+  "showMain": false,
+  "Swap":[
+    {
+    "Uasset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_StreetFashionEclipse.uasset",
+    "XUcas": "pakchunk10_s22-WindowsClient.ucas",
+      "search":["/Game/Characters/Player/Female/Medium/Heads/F_MED_Angel_Head_01/Meshes/F_MED_Angel_Head_01.F_MED_Angel_Head_01",
+      "/Game/Characters/Player/Female/Medium/Heads/F_MED_Angel_Head_01/Meshes/F_MED_Angel_Head_AnimBP_Child.F_MED_Angel_Head_AnimBP_Child_C",
+      "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Head.F_MED_StreetFashionEclipse_Head"
+],
+     "replace":["/Game/Characters/Player/Male/Large/Heads/M_LRG_Menace_Head/Meshes/Male_Large_Menace_Head.Male_Large_Menace_Head",
+     "/Game/Characters/Player/Male/Large/Heads/M_LRG_Menace_Head/Meshes/M_LRG_Menace_Head_AnimBP.M_LRG_Menace_Head_AnimBP_C",
+      "/Game/Characters/Player/Male/Male_Avg_Base/Fortnite_M_Avg_Player.Fortnite_M_Avg_Player"   
+      ]
+    },
+    {
+      "Uasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StreetFashionEclipse.uasset",
+          "XUcas": "pakchunk10_s22-WindowsClient.ucas",
+                "search":[
+      "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_AnimBP.F_MED_Street_Fashion_Red_AnimBP_C",
+      "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red.F_MED_Street_Fashion_Red",
+      "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
+      "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Body.F_MED_StreetFashionEclipse_Body"
+],
+      "replace":[
+      "/Game/Characters/Player/Male/Large/Bodies/M_LRG_Menace/Meshes/M_LRG_Menace_AnimBP.M_LRG_Menace_AnimBP_C",
+      "/Game/Characters/Player/Male/Large/Bodies/M_LRG_Menace/Meshes/M_LRG_Menace.M_LRG_Menace",
+      "/Game/Characters/Player/Male/Large/Base/SK_L_MALE_Base_Skeleton.SK_L_MALE_Base_Skeleton",
+            "/Game/Characters/Player/Fem2le/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Body.F_MED_StreetFashionEclipse_Body"  
+      ]
+    },
+        {
+      "Uasset": "FortniteGame/Content/Characters/CharacterParts/FaceAccessories/CP_F_MED_FaceAcc_StreetFashionEclipse.uasset",
+          "XUcas": "pakchunk10_s22-WindowsClient.ucas",
+                "search":[
+      "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/Parts/F_MED_Street_Fashion_Red_FaceAcc.F_MED_Street_Fashion_Red_FaceAcc",
+      "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/Parts/F_MED_Street_Fashion_Red_FaceAcc_AnimBp.F_MED_Street_Fashion_Red_FaceAcc_AnimBp_C"
+],
+      "replace":[
+      "/Game/Characters/Player/Male/Large/Bodies/M_LRG_Menace/Meshes/Parts/M_LRG_Menace_FaceAcc.M_LRG_Menace_FaceAcc",
+      "/Game/Characters/Player/Male/Large/Bodies/M_LRG_Menace/Meshes/Parts/M_LRG_Menace_FaceAcc_AnimBP.M_LRG_Menace_FaceAcc_AnimBP_C"   
+      ]
+    }
+    ]
+  }
+  ]
+  }
